@@ -2,8 +2,9 @@ import React from 'react';
 
 function Header() {
   return (
-    <header>
-      <h1>My Portfolio</h1>
+    <header className="hero">
+      <h1>Jane Doe Portfolio</h1>
+      <p className="tagline">Crafting intuitive digital experiences</p>
       <nav>
         <ul>
           <li><a href="#about">About</a></li>

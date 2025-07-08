@@ -1,6 +1,6 @@
 # Portfolio
 
-This repository contains a minimal React setup for a portfolio site. It uses Vite for development and includes basic components you can style and expand.
+This repository contains a simple React design portfolio built with Vite. It features a hero section, sample project cards, and a contact form so you can quickly showcase your work.
 
 ## Available Scripts
 
