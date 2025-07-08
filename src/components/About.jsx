@@ -4,7 +4,11 @@ function About() {
   return (
     <section id="about">
       <h2>About Me</h2>
-      <p>This is a short bio where you can introduce yourself.</p>
+      <p>
+        I'm a multidisciplinary designer focused on delivering engaging and
+        memorable digital experiences. This placeholder bio highlights design
+        skills and approach.
+      </p>
     </section>
   );
 }
